@@ -1,0 +1,20 @@
+.class-1-5{
+  color: black;
+  background-color: pink;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+}
+
+#number-2{
+  color:blue;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+}
+
+#number-4{
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 22px;
+  background-color: greenyellow;
+  font-weight:bold;
+}
